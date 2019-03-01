@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="out_put">Out Put</string>
+    <string name="masukan_kata">Masukan Kata :</string>
+    <string name="sample_input">Sample Input</string>
+
+</resources>
